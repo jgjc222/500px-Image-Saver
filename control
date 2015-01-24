@@ -1,0 +1,9 @@
+Package: com.jgjc.500pxPhotoSaver
+Name: 500px Photo Saver
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: 500px App Photo Saver
+Maintainer: jgjc
+Author: jgjc
+Section: Tweaks
