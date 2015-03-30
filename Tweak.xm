@@ -16,7 +16,7 @@
         UIImage *img = imgv.image;
         UIImageWriteToSavedPhotosAlbum(img, nil, nil, nil);
         UIAlertView *alert = [[UIAlertView alloc]   initWithTitle:@"Saved!"
-                                                    message:@"This photo has been to Camera Roll"
+                                                    message:@"This photo has been saved to Camera Roll"
                                                     delegate:nil
                                                     cancelButtonTitle:@"Done"
                                                     otherButtonTitles:nil];
